@@ -1,0 +1,21 @@
+{
+"OM1OM_MJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MINJI** OMG #1 - OMG",
+    "idol":"OMG MINJI",
+    "inv":"<:R_EMOTE:1036291037620097034> OMG #1 - OMG",
+    "image": "https://media.discordapp.net/attachments/1055485183387774996/1077077946411520000/val_hy.png",
+    "theme": "OMG [Verse 1]", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  "OM1OM_HN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **HANNI** OMG #1 - OMG",
+    "idol":"OMG HANNI",
+    "inv":"<:R_EMOTE:1036291037620097034> OMG #1 - OMG",
+    "image": "https://media.discordapp.net/attachments/1055485183387774996/1077077946411520000/val_hy.png",
+    "theme": "OMG [Verse 1]", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
