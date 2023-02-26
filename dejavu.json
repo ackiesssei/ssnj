@@ -1,41 +1,25 @@
 {
- "O1O1_MJ_R": [
+ "ORDV_V_R": [
   {
-    "name": ":c_: **OMG #1 OMG** MINJI",
+    "name": ":c_: **Olivia Rodrigo Vocal** deja vu",
     "image": "https://media.discordapp.net/attachments/854593680782786570/1078336642785480774/or_dv_v.png",
     "footer": "You obtained the reward."
   }
-  ],
+    ],
     
-     "O1O1_HN_R": [
+     "ORDV_D_R": [
       {
-    "name": ":c_: **OMG #1 OMG** HANNI",
+    "name": ":c_: **Olivia Rodrigo Dance** deja vu",
     "image": "https://media.discordapp.net/attachments/854593680782786570/1078336642412195981/or_dv_d.png",
     "footer": "You obtained the reward."
       }
-      ],
+    ],
  
-    "O1O1_DN_R": [
-      {
-    "name": ":c_: **OMG #1 OMG** DANIELLE",
+  "ORDV_R_R": [
+   {
+    "name": ":c_: **Olivia Rodrigo Rhythm** deja vu",
     "image": "https://media.discordapp.net/attachments/854593680782786570/1078336642143752282/or_dv_r.png",
     "footer": "You obtained the reward."
    }
-   ],
- 
-    "O1O1_HR_R": [
-     {
-    "name": ":c_: **OMG #1 OMG** HAERIN",
-    "image": "https://media.discordapp.net/attachments/854593680782786570/1078336642143752282/or_dv_r.png",
-    "footer": "You obtained the reward."
-   }
-   ],
- 
-    "O1O1_HY_R": [
-     {
-    "name": ":c_: **OMG #1 OMG** HYEIN,"
-    "image": "https://media.discordapp.net/attachments/854593680782786570/1078336642143752282/or_dv_r.png",
-    "footer": "You obtained the reward."
-   }
-   ]
+    ]
          }
