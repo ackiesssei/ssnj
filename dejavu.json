@@ -1,42 +1,42 @@
 {
- "O1O1_MJ_R": [
+ "N1N1_MJ_R": [
   {
-    "name": ":c_: **OMG #1 OMG** MINJI",
+    "name": ":c_: **New Jeans #1** MINJI",
     "image": "https://media.discordapp.net/attachments/1055485183387774996/1080455011705831434/nj1_mj.png",
     "footer": "You obtained the reward."
   }
     ],
     
-     "O1O1_HN_R": [
+     "N1N1_MJ_S": [
       {
-    "name": ":c_: **OMG #1 OMG** HANNI ",
+    "name": ":c_: **New Jeans #1** HANNI ",
     "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454982416998430/nj1_hn.png",
     "footer": "You obtained the reward."
       }
     ],
  
-  "O1O1_DN_R": [
+  "N1N1_MJ_A": [
      {
-    "name": ":c_: **OMG #1 OMG** DANIELLE",
+    "name": ":c_: **New Jeans #1** DANIELLE",
     "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
     "footer": "You obtained the reward."
      }
     ],
  
- "O1O1_HR_R": [
+ "N1N1_MJ_B": [
      {
-    "name": ":c_: **OMG #1 OMG** HAERIN",
+    "name": ":c_: **New Jeans #1** HAERIN",
     "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
     "footer": "You obtained the reward."
      }
     ],
  
- "O1O1_HY_R": [
+ "N1N1_MJ_C": [
      {
-    "name": ":c_: **OMG #1 OMG** HYEIN",
+    "name": ":c_: **New Jeans #1** HYEIN",
     "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
     "footer": "You obtained the reward."
      }
-    ]
+    ],
 }
  
