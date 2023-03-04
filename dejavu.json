@@ -1,42 +1,37 @@
 {
- "N1N1_MJ_R": [
-  {
-    "name": ":c_: **New Jeans #1** MINJI",
-    "image": "https://media.discordapp.net/attachments/1055485183387774996/1080455011705831434/nj1_mj.png",
-    "footer": "You obtained the reward."
-  }
+    "N1N1_MJ_R": [
+        {
+            "name": ":c_: **New Jeans #1** MINJI",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1080455011705831434/nj1_mj.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "N1N1_MJ_S": [
-      {
-    "name": ":c_: **New Jeans #1** HANNI ",
-    "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454982416998430/nj1_hn.png",
-    "footer": "You obtained the reward."
-      }
+    "N1N1_MJ_S": [
+        {
+            "name": ":c_: **New Jeans #1** HANNI ",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454982416998430/nj1_hn.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-  "N1N1_MJ_A": [
-     {
-    "name": ":c_: **New Jeans #1** DANIELLE",
-    "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
-    "footer": "You obtained the reward."
-     }
+    "N1N1_MJ_A": [
+        {
+            "name": ":c_: **New Jeans #1** DANIELLE",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
- "N1N1_MJ_B": [
-     {
-    "name": ":c_: **New Jeans #1** HAERIN",
-    "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
-    "footer": "You obtained the reward."
-     }
+    "N1N1_MJ_B": [
+        {
+            "name": ":c_: **New Jeans #1** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
- "N1N1_MJ_C": [
-     {
-    "name": ":c_: **New Jeans #1** HYEIN",
-    "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
-    "footer": "You obtained the reward."
-     }
+    "N1N1_MJ_C": [
+        {
+            "name": ":c_: **New Jeans #1** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1080454966025654292/nj1_dn.png",
+            "footer": "You obtained the reward."
+        }
     ]
 }
- 
