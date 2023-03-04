@@ -33,5 +33,40 @@
             "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499534363983872/nj1_mj_c.png",
             "footer": "You obtained the reward."
         }
+    ],
+    "N1N1_HN_R": [
+        {
+            "name": ":r_: **New Jeans #1** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499453103554560/nj1_hn.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HN_S": [
+        {
+            "name": ":s_: **New Jeans #1** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499453359403068/nj1_hn_s.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HN_A": [
+        {
+            "name": ":a_: **New Jeans #1** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499453569114152/nj1_hn_a.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HN_B": [
+        {
+            "name": ":b_: **New Jeans #1** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499454055657493/nj1_hn_b.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HN_C": [
+        {
+            "name": ":c_: **New Jeans #1** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499453820780554/nj1_hn_c.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
     ]
 }
