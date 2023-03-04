@@ -103,5 +103,75 @@
             "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499378247815218/nj1_dn_c.png?width=339&height=477",
             "footer": "You obtained the reward."
         }
-    ]
+    ],
+        "N1N1_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans #1** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499312300769441/nj1_hr.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans #1** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499312552411146/nj1_hr_s.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans #1** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499312900542556/nj1_hr_a.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans #1** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499313596797069/nj1_hr_b.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans #1** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499313231904819/nj1_hr_c.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+        "N1N1_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans #1** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499243082166282/nj1_hy_2.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans #1** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499243442868264/nj1_hy_s.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans #1** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499244034277396/nj1_hy_a.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans #1** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499245099630592/nj1_hy_b.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "N1N1_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans #1** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499245099630592/nj1_hy_b.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
 }
