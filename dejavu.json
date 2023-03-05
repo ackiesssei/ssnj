@@ -173,5 +173,41 @@
             "image": "https://media.discordapp.net/attachments/1081499031949295636/1081499244629864458/nj1_hy_c.png?width=339&height=477",
             "footer": "You obtained the reward."
         }
+    ],
+    "R7R7_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **Room 722** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081797906668990535/r722_mj_r.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "R7R7_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **Room 722** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081797906278912110/r722_mj_s.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "R7R7_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **Room 722** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081797905955962940/r722_mj_a.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "R7R7_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **Room 722** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081797905540714527/r722_mj_b.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "R7R7_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Room 722** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1081797905112907776/r722_mj_c.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
     ]
+    
 }
