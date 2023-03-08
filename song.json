@@ -1,17 +1,16 @@
 {
-"OMGV1": [
-     {
-    "text": "OMGV1",
-    "name": "OMG (Verse 1)",
-    "desc": "**OMG #1 - OMG (Verse 1).**",
-     }
+    "OMGV1": [
+        {
+            "text": "OMGV1",
+            "name": "OMG (Verse 1)",
+            "desc": "**OMG #1 - OMG (Verse 1).**"
+        }
     ],
-     
-     "OMGV2": [
-     {
-    "text": "OMGV2",
-    "name": "OMG (Verse 2)",
-    "desc": "**OMG #2 - OMG (Verse 2).**",
-     }
+    "OMGV2": [
+        {
+            "text": "OMGV2",
+            "name": "OMG (Verse 2)",
+            "desc": "**OMG #2 - OMG (Verse 2).**"
+        }
     ]
 }
