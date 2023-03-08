@@ -383,5 +383,180 @@
             "image": "https://media.discordapp.net/attachments/854593680782786570/1077541427724161155/omg_hy_1.png?width=429&height=586",
             "footer": "You obtained the reward."
         }
+    ],
+    "SNOP_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **Opening** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694060340420710/SNOP_MJ_R.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **Opening** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694059996483714/SNOP_MJ_S.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **Opening** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694059673538590/SNOP_MJ_A.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **Opening** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694059358953472/SNOP_MJ_B.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Opening** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694059082141756/SNOP_MJ_C.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Opening** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694085418176632/SNOP_HN_R.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Opening** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694085212639334/SNOP_HN_S.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Opening** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694085002919956/SNOP_HN_A.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Opening** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694084751282207/SNOP_HN_B.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Opening** HANNI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694084524773466/SNOP_HN_C.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_DN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Opening** DANIELLE",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694140430663731/SNOP_DN_R.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_DN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Opening** DANIELLE",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694140158021652/SNOP_DN_S.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_DN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Opening** DANIELLE",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694139931537548/SNOP_DN_A.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_DN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Opening** DANIELLE",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694139755380736/SNOP_DN_B.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_DN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Opening** DANIELLE",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082694139528876122/SNOP_DN_C.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **Opening** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082837992592396328/SNOP_HR_R.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **Opening** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082837992365887488/SNOP_HR_S.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **Opening** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082837992038740028/SNOP_HR_A.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **Opening** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082837991766102087/SNOP_HR_B.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Opening** HAERIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082837991455731783/SNOP_HR_C.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **Opening** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082838022065758359/SNOP_HY_R.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **Opening** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082838021793124362/SNOP_HY_S.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **Opening** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082838021545676861/SNOP_HY_A.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **Opening** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082838021302394960/SNOP_HY_B.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNOP_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Opening** HYEIN",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1082838021088481300/SNOP_HY_C.png?width=339&height=477",
+            "footer": "You obtained the reward."
+        }
     ]
 }
