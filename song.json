@@ -6,11 +6,18 @@
             "desc": "**OMG #1 - OMG (Verse 1).**"
         }
     ],
-    "OMGV2": [
+    "ATNV1": [
         {
-            "text": "OMGV2",
-            "name": "OMG (Verse 2)",
-            "desc": "**OMG #2 - OMG (Verse 2).**"
+            "text": "ATNV1",
+            "name": "Attention (Verse 1)",
+            "desc": "**New Jeans #1 - Attention (Verse 1).**"
+        }
+    ],
+    "DTTV1": [
+        {
+            "text": "DTTV1",
+            "name": "Ditto (Verse 1)",
+            "desc": "**OMG #1 - Ditto (Verse 1).**"
         }
     ]
 }
