@@ -1,0 +1,23 @@
+{ 
+     "NJ1": [ 
+         { 
+             "text": "NJ1", 
+             "name": "New Jeans #1", 
+             "desc": "**New Jeans #1**" 
+         } 
+     ], 
+     "OM1": [ 
+         { 
+             "text": "OM1", 
+             "name": "OMG #1", 
+             "desc": "**OMG #1**" 
+         } 
+     ], 
+     "SSNJ": [ 
+         { 
+             "text": "SSNJ", 
+             "name": "SSNJ", 
+             "desc": "**SuperStar NewJeans**" 
+         } 
+     ] 
+ }
