@@ -5,7 +5,13 @@
       "DF_HN":"https://media.discordapp.net/attachments/1081499031949295636/1084109509485670400/hndefault.png?width=137&height=137",
       "DF_DN":"https://media.discordapp.net/attachments/1081499031949295636/1084109319521444001/dndefault.png?width=137&height=137",
       "DF_HR":"https://media.discordapp.net/attachments/1081499031949295636/1084109319773114418/hrdefault.png?width=137&height=137",
-      "DF_HY":"https://media.discordapp.net/attachments/1081499031949295636/1084109319299137587/hydefault.png?width=137&height=137"
+      "DF_HY":"https://media.discordapp.net/attachments/1081499031949295636/1084109319299137587/hydefault.png?width=137&height=137",
+      
+      "DF_MJ_TEXT":"**Default** MINJI Profile Picture",
+      "DF_HN_TEXT":"**Default** HANNI Profile Picture",
+      "DF_DN_TEXT":"**Default** DANIELLE Profile Picture",
+      "DF_HR_TEXT":"**Default** HAERIN Profile Picture",
+      "DF_HY_TEXT":"**Default** HYEIN Profile Picture"
     }
       ]
 }
