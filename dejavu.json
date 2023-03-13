@@ -558,5 +558,40 @@
             "image": "https://media.discordapp.net/attachments/1081499031949295636/1082838021088481300/SNOP_HY_C.png?width=339&height=477",
             "footer": "You obtained the reward."
         }
+    ],
+    "SNVL_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **SSNJ Valentines** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1084817486718980218/Untitled93_20230313203248.png?width=429&height=586",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNVL_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **SSNJ Valentines** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1084817486995791913/Untitled93_20230313203301.png?width=429&height=586",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNVL_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **SSNJ Valentines** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1084817487301980180/Untitled93_20230313203304.png?width=429&height=586",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNVL_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **SSNJ Valentines** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1084817487549452308/Untitled93_20230313203307.png?width=429&height=586",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNVL_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **SSNJ Valentines** MINJI",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1084817487830458468/Untitled93_20230313203311.png?width=429&height=586",
+            "footer": "You obtained the reward."
+        }
     ]
 }
