@@ -1,6 +1,14 @@
 { 
   "colors": [
     {
+      "SSNJVAL_COLOR": "#ffd5e9",
+      "SEASONSGREETINGS_COLOR": "#6e6159",
+      
+      "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
+      "SEASONSGREETINGS_COLOR_TEXT": "**Limited** Seasons Greetings Color",
+      
+      
+      
       "NEWJEANS_COLOR": "#284377",
       "NEWJEANS_COLOR2": "#4ff045",
       "SSNJ_COLOR": "#0c84e4",
