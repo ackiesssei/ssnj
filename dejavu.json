@@ -1083,5 +1083,180 @@
             "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/230115/21.png?format=png",
             "footer": "You obtained the reward."
         }
+    ],
+    "SNS1_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **Special #1** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/5.png?format=png,
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **Special #1** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/4.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **Special #1** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/3.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **Special #1** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/2.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Special #1** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/1.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Special #1** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/10.png?format=png,
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Special #1** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/9.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Special #1** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/8.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Special #1** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/7.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Special #1** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/6.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_DN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Special #1** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/15.png?format=png,
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_DN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Special #1** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/14.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_DN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Special #1** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/13.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_DN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Special #1** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/12.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_DN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Special #1** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/11.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **Special #1** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/20.png?format=png,
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **Special #1** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/19.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **Special #1** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/18.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **Special #1** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/17.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Special #1** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/16.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **Special #1** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/25.png?format=png,
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **Special #1** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/24.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **Special #1** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/23.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **Special #1** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/22.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "SNS1_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Special #1** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%231/21.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ]
 }
