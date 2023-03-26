@@ -1,0 +1,47 @@
+{ 
+  "pfps": [
+    {
+      "N1_MJ":"https://media.discordapp.net/attachments/1081499031949295636/1084109320037335061/mjdefault.png?width=137&height=137",
+      "N1_HN":"https://media.discordapp.net/attachments/1081499031949295636/1084109509485670400/hndefault.png?width=137&height=137",
+      "N1_DN":"https://media.discordapp.net/attachments/1081499031949295636/1084109319521444001/dndefault.png?width=137&height=137",
+      "N1_HR":"https://media.discordapp.net/attachments/1081499031949295636/1084109319773114418/hrdefault.png?width=137&height=137",
+      "N1_HY":"https://media.discordapp.net/attachments/1081499031949295636/1084109319299137587/hydefault.png?width=137&height=137",
+      "OP_MJ":"https://media.discordapp.net/attachments/1055485183387774996/1084122454038937743/opmj_1.png?width=137&height=137",
+      "OP_HN":"https://media.discordapp.net/attachments/1055485183387774996/1084122151809990726/ophn.png?width=137&height=137",
+      "OP_DN":"https://media.discordapp.net/attachments/1055485183387774996/1084122151453462528/opdn.png?width=137&height=137",
+      "OP_HR":"https://media.discordapp.net/attachments/1055485183387774996/1084122151151484948/ophr.png?width=137&height=137",
+      "OP_HY":"https://media.discordapp.net/attachments/1055485183387774996/1084122150941753455/ophy.png?width=137&height=137",
+      "OM_MJ":"https://media.discordapp.net/attachments/1055485183387774996/1084122149943513138/ommj.png?width=137&height=137",
+      "OM_HN":"https://media.discordapp.net/attachments/1055485183387774996/1084122149670895696/omhn.png?width=137&height=137",
+      "OM_DN":"https://media.discordapp.net/attachments/1055485183387774996/1084122149398249592/dnmj.png?width=137&height=137",
+      "OM_HR":"https://media.discordapp.net/attachments/1055485183387774996/1084122149087887400/omhr.png?width=137&height=137",
+      "OM_HY":"https://media.discordapp.net/attachments/1055485183387774996/1084122148773298176/omhy.png?width=137&height=137",
+      "R7_MJ":"https://media.discordapp.net/attachments/1055485183387774996/1084123608370118706/r7mj.png?width=137&height=137",
+      "R7_HN":"https://media.discordapp.net/attachments/1055485183387774996/1084123608114278480/r7hn.png?width=137&height=137",
+      "R7_DN":"https://media.discordapp.net/attachments/1055485183387774996/1084123607778742293/r7dn.png?width=137&height=137",
+      "R7_HR":"https://media.discordapp.net/attachments/1055485183387774996/1084123607367680061/r7hr.png?width=137&height=137",
+      "R7_HY":"https://media.discordapp.net/attachments/1055485183387774996/1084123607032148158/r7hy.png?width=137&height=137",
+      
+      "N1_MJ_TEXT":"**Free** New Jeans #1 MINJI Profile Picture",
+      "N1_HN_TEXT":"**Free** New Jeans #1 HANNI Profile Picture",
+      "N1_DN_TEXT":"**Free** New Jeans #1 DANIELLE Profile Picture",
+      "N1_HR_TEXT":"**Free** New Jeans #1 HAERIN Profile Picture",
+      "N1_HY_TEXT":"**Free** New Jeans #1 HYEIN Profile Picture",
+      "R7_MJ_TEXT":"**Free** Room 722 MINJI Profile Picture",
+      "R7_HN_TEXT":"**Free** Room 722 HANNI Profile Picture",
+      "R7_DN_TEXT":"**Free** Room 722 DANIELLE Profile Picture",
+      "R7_HR_TEXT":"**Free** Room 722 HAERIN Profile Picture",
+      "R7_HY_TEXT":"**Free** Room 722 HYEIN Profile Picture",
+      "OP_MJ_TEXT":"**Free** Opening MINJI Profile Picture",
+      "OP_HN_TEXT":"**Free** Opening HANNI Profile Picture",
+      "OP_DN_TEXT":"**Free** Opening DANIELLE Profile Picture",
+      "OP_HR_TEXT":"**Free** Opening HAERIN Profile Picture",
+      "OP_HY_TEXT":"**Free** Opening HYEIN Profile Picture",
+      "OM_MJ_TEXT":"**Free** OMG MINJI Profile Picture",
+      "OM_HN_TEXT":"**Free** OMG HANNI Profile Picture",
+      "OM_DN_TEXT":"**Free** OMG DANIELLE Profile Picture",
+      "OM_HR_TEXT":"**Free** OMG HAERIN Profile Picture",
+      "OM_HY_TEXT":"**Free** OMG HYEIN Profile Picture"
+    }
+      ]
+}
