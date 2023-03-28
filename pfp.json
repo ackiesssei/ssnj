@@ -21,6 +21,12 @@
       "SNS1_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/18.png?format=png",
       "SNS1_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/19.png?format=png",
       "SNS1_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/20.png?format=png",
+      "SNS2_MJ": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/21.png?format=png",
+      "SNS2_HN": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/22.png?format=png",
+      "SNS2_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/23.png?format=png",
+      "SNS2_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/24.png?format=png",
+      "SNS2_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/25.png?format=png",
+
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -41,7 +47,12 @@
       "SNS1_HN_TEXT": "**Limited** Special #1 HANNI Profile Picture",
       "SNS1_DN_TEXT": "**Limited** Special #1 DANIELLE Profile Picture",
       "SNS1_HR_TEXT": "**Limited** Special #1 HAERIN Profile Picture",
-      "SNS1_HY_TEXT": "**Limited** Special #1 HYEIN Profile Picture"
+      "SNS1_HY_TEXT": "**Limited** Special #1 HYEIN Profile Picture",
+      "SNS2_MJ_TEXT": "**Limited** Special #2 MINJI Profile Picture",
+      "SNS2_HN_TEXT": "**Limited** Special #2 HANNI Profile Picture",
+      "SNS2_DN_TEXT": "**Limited** Special #2 DANIELLE Profile Picture",
+      "SNS2_HR_TEXT": "**Limited** Special #2 HAERIN Profile Picture",
+      "SNS2_HY_TEXT": "**Limited** Special #2 HYEIN Profile Picture"
      
     }
       ]
