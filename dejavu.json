@@ -1433,5 +1433,180 @@
             "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Special%20%232/21.png?canvas.width=340&canvas.height=440&canvas.opacity=0?format=png",
             "footer": "You obtained the reward."
         }
+    ],
+    "BNBN_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **Bunnies Club** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/5.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **Bunnies Club** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/4.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **Bunnies Club** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/3.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **Bunnies Club** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/2.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Bunnies Club** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/1.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Bunnies Club** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/10.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Bunnies Club** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/9.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Bunnies Club** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/8.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Bunnies Club** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/7.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Bunnies Club** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/6.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_DN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Bunnies Club** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/15.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_DN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Bunnies Club** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/14.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_DN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Bunnies Club** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/13.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_DN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Bunnies Club** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/12.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_DN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Bunnies Club** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/11.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **Bunnies Club** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/20.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **Bunnies Club** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/19.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **Bunnies Club** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/18.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **Bunnies Club** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/17.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Bunnies Club** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/16.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **Bunnies Club** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/25.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **Bunnies Club** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/24.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **Bunnies Club** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/23.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **Bunnies Club** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/22.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "BNBN_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Bunnies Club** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/Bunnies%20Club/21.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ]
 }
