@@ -1,10 +1,10 @@
 { 
   "colors": [
     {
-      "SSNJVAL_COLOR": "#Ffd5e9",
+      "SSNJVAL_COLOR": "#ffd5e9",
       "SEASONSGREETINGS_COLOR": "#6e6159",
       "SN230115_COLOR": "#6c658f",
-      "SPECIAL1_COLOR": "#F7a91f",
+      "SPECIAL1_COLOR": "#f7a91f",
       "SPECIAL2_COLOR": "#36555a",
       
       "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
@@ -12,9 +12,7 @@
       "SN230115_COLOR_TEXT": "**Limited** 230115 Color",
       "SPECIAL1_COLOR_TEXT": "**Limited** Special #1 Color",
       "SPECIAL2_COLOR_TEXT": "**Limited** Special #2 Color",
-      
-      
-      
+     
       "NEWJEANS_COLOR": "#284377",
       "NEWJEANS_COLOR2": "#4ff045",
       "SSNJ_COLOR": "#0c84e4",
