@@ -6,14 +6,18 @@
       "SN230115_COLOR": "6c658f",
       "SPECIAL1_COLOR": "f7a91f",
       "SPECIAL2_COLOR": "36555a",
-      
+       
+    }
+      ],
+   "colorstext": [
+    {
+   
       "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
       "SEASONSGREETINGS_COLOR_TEXT": "**Limited** Seasons Greetings Color",
       "SN230115_COLOR_TEXT": "**Limited** 230115 Color",
       "SPECIAL1_COLOR_TEXT": "**Limited** Special #1 Color",
       "SPECIAL2_COLOR_TEXT": "**Limited** Special #2 Color"
-     
-      
+   
     }
       ]
 }
