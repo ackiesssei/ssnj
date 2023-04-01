@@ -5,7 +5,8 @@
       "SEASONSGREETINGS_COLOR": "6e6159",
       "SN230115_COLOR": "6c658f",
       "SPECIAL1_COLOR": "f7a91f",
-      "SPECIAL2_COLOR": "36555a"
+      "SPECIAL2_COLOR": "36555a",
+      "BUNNIESCLUB_COLOR": "97aab9",
        
     }
       ],
@@ -16,7 +17,8 @@
       "SEASONSGREETINGS_COLOR_TEXT": "**Limited** Seasons Greetings Color",
       "SN230115_COLOR_TEXT": "**Limited** 230115 Color",
       "SPECIAL1_COLOR_TEXT": "**Limited** Special #1 Color",
-      "SPECIAL2_COLOR_TEXT": "**Limited** Special #2 Color"
+      "SPECIAL2_COLOR_TEXT": "**Limited** Special #2 Color",
+      "BUNNIESCLUB_COLOR_TEXT": "**Limited** Bunnies Club Color"
    
     }
       ]
