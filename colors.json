@@ -1,12 +1,12 @@
 { 
   "colors": [
     {
-      "SSNJVAL_COLOR": "ffd5e9",
-      "SEASONSGREETINGS_COLOR": "6e6159",
-      "SN230115_COLOR": "6c658f",
-      "SPECIAL1_COLOR": "f7a91f",
-      "SPECIAL2_COLOR": "36555a",
-      "BUNNIESCLUB_COLOR": "97aab9",
+      "SSNJVAL_COLOR": "#ffd5e9",
+      "SEASONSGREETINGS_COLOR": "#6e6159",
+      "SN230115_COLOR": "#6c658f",
+      "SPECIAL1_COLOR": "#f7a91f",
+      "SPECIAL2_COLOR": "#36555a",
+      "BUNNIESCLUB_COLOR": "#97aab9",
       
    
       "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
