@@ -31,6 +31,11 @@
       "BNBN_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/28.png?format=png",
       "BNBN_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/29.png?format=png",
       "BNBN_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/March/PFP/30.png?format=png",
+      "SDDD_FH": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/1.png?format=png",
+      "SDDD_FB": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/2.png?format=png",
+      "SDDD_FE": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/3.png?format=png",
+      "SDDD_FW": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/4.png?format=png",
+      "SDDD_FS": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/5.png?format=png",
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -61,7 +66,12 @@
       "BNBN_HN_TEXT": "**Limited** Bunnies Club HANNI Profile Picture",
       "BNBN_DN_TEXT": "**Limited** Bunnies Club DANIELLE Profile Picture",
       "BNBN_HR_TEXT": "**Limited** Bunnies Club HAERIN Profile Picture",
-      "BNBN_HY_TEXT": "**Limited** Bunnies Club HYEIN Profile Picture"
+      "BNBN_HY_TEXT": "**Limited** Bunnies Club HYEIN Profile Picture",
+      "SDDD_FH_TEXT": "**Limited** DANIELLE DAY From Hanaimagination Profile Picture",
+      "SDDD_FB_TEXT": "**Limited** DANIELLE DAY From bullloafer Profile Picture",
+      "SDDD_FE_TEXT": "**Limited** DANIELLE DAY From emzsi Profile Picture",
+      "SDDD_FW_TEXT": "**Limited** DANIELLE DAY From winwln Profile Picture",
+      "SDDD_FS_TEXT": "**Limited** DANIELLE DAY From sssei Profile Picture",
      
     }
       ]
