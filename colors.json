@@ -7,12 +7,24 @@
             "SPECIAL1_COLOR": "#f7a91f",
             "SPECIAL2_COLOR": "#36555a",
             "BUNNIESCLUB_COLOR": "#97aab9",
+            "FROMHANAIMAGINATION_COLOR": "#ffaf1a",
+            "FROMBULLLOAFER_COLOR": "#ffd53f",
+            "FROMEMZSI_COLOR": "#945424",
+            "FROMWINWLN_COLOR": "#aec6ec",
+            "FROMSSSEI_COLOR": "#375c26",
+            
+            
             "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
             "SEASONSGREETINGS_COLOR_TEXT": "**Limited** Seasons Greetings Color",
             "SN230115_COLOR_TEXT": "**Limited** 230115 Color",
             "SPECIAL1_COLOR_TEXT": "**Limited** Special #1 Color",
             "SPECIAL2_COLOR_TEXT": "**Limited** Special #2 Color",
-            "BUNNIESCLUB_COLOR_TEXT": "**Limited** Bunnies Club Color"
+            "BUNNIESCLUB_COLOR_TEXT": "**Limited** Bunnies Club Color",
+            "FROMHANAIMAGINATION_COLOR_TEXT": "**Limited** DANIELLE DAY From Hanaimagination Color",
+            "FROMBULLLOAFER_COLOR_TEXT": "**Limited** DANIELLE DAY From bullloafer Color",
+            "FROMEMZSI_COLOR_TEXT": "**Limited** DANIELLE DAY From emzsi Color",
+            "FROMWINWLN_COLOR_TEXT": "**Limited** DANIELLE DAY From winwln Color",
+            "FROMSSSEI_COLOR_TEXT": "**Limited** DANIELLE DAY From sssei Color"
         }
     ]
 }
