@@ -1780,7 +1780,182 @@
     "SDDD_FS_C": [
         {
             "name": "<:c_:1081522950961909860> **DANIELLE DAY From sssei** DANIELLE",
-            "image": "hhttps://superstarnewjeans.sirv.com/SSNJ/2023/April/DANIELLE%20Day/21.png?format=png",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/DANIELLE%20Day/21.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **Oh my** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/5.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **Oh my** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/4.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **Oh my** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/3.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **Oh my** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/2.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Oh my** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/1.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Oh my** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/10.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Oh my** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/9.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Oh my** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/8.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Oh my** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/7.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Oh my** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/6.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_DN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Oh my** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/15.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_DN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Oh my** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/14.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_DN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Oh my** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/13.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_DN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Oh my** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/12.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_DN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Oh my** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/11.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **Oh my** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/20.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **Oh my** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/19.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **Oh my** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/18.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **Oh my** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/17.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Oh my** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/16.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **Oh my** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/25.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **Oh my** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/24.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **Oh my** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/23.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **Oh my** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/22.png?format=png",
+            "footer": "You obtained the reward."
+        }
+    ],
+    "O2OM_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Oh my** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Oh%20my/21.png?format=png",
             "footer": "You obtained the reward."
         }
     ]
