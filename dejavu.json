@@ -2008,5 +2008,155 @@
             "name": "🖊️ **SSNJ Signed** HYEIN",
             "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/SSNJ%20Signed/30.png?format=png"
         }
+    ],
+    "ZEHC_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **Here's your cola** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/5.png?canvas.width=320&canvas.height=430&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **Here's your cola** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/4.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **Here's your cola** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/3.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **Here's your cola** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/2.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Here's your cola** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/1.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+     "ZEHC_HN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Here's your cola** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/10.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Here's your cola** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/9.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Here's your cola** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/8.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Here's your cola** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/7.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Here's your cola** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/6.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+     "ZEHC_DN_R": [
+        {
+            "name": "<:r:1081522963628699669> **Here's your cola** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/15.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_DN_S": [
+        {
+            "name": "<:s:1081522960067727360> **Here's your cola** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/14.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_DN_A": [
+        {
+            "name": "<:a:1081522956234133527> **Here's your cola** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/13.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_DN_B": [
+        {
+            "name": "<:b:1081522954279591956> **Here's your cola** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/12.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_DN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Here's your cola** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/11.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+     "ZEHC_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **Here's your cola** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/20.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **Here's your cola** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/19.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **Here's your cola** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/18.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **Here's your cola** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/17.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Here's your cola** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/16.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+     "ZEHC_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **Here's your cola** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/25.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **Here's your cola** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/24.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **Here's your cola** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/23.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **Here's your cola** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/22.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
+    ],
+    "ZEHC_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **Here's your cola** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/Here's%20your%20cola/21.png?canvas.width=290&canvas.height=390&canvas.opacity=0?format=png"
+        }
     ]
 }
