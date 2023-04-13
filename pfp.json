@@ -36,6 +36,16 @@
       "SDDD_FE": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/3.png?format=png",
       "SDDD_FW": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/4.png?format=png",
       "SDDD_FS": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/5.png?format=png",
+      "ZEZE_MJ": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/6.png?format=png",
+      "ZEZE_HN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/7.png?format=png",
+      "ZEZE_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/8.png?format=png",
+      "ZEZE_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/9.png?format=png",
+      "ZEZE_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/10.png?format=png",
+      "ZEHC_MJ": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/11.png?format=png",
+      "ZEHC_HN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/12.png?format=png",
+      "ZEHC_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/13.png?format=png",
+      "ZEHC_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/14.png?format=png",
+      "ZEHC_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/15.png?format=png",
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -71,7 +81,17 @@
       "SDDD_FB_TEXT": "**Limited** DANIELLE DAY From bullloafer Profile Picture",
       "SDDD_FE_TEXT": "**Limited** DANIELLE DAY From emzsi Profile Picture",
       "SDDD_FW_TEXT": "**Limited** DANIELLE DAY From winwln Profile Picture",
-      "SDDD_FS_TEXT": "**Limited** DANIELLE DAY From sssei Profile Picture"
+      "SDDD_FS_TEXT": "**Limited** DANIELLE DAY From sssei Profile Picture",
+      "ZEZE_MJ_TEXT": "**Limited** Zero MINJI Profile Picture",
+      "ZEZE_HN_TEXT": "**Limited** Zero HANNI Profile Picture",
+      "ZEZE_DN_TEXT": "**Limited** Zero DANIELLE Profile Picture",
+      "ZEZE_HR_TEXT": "**Limited** Zero HAERIN Profile Picture",
+      "ZEZE_HY_TEXT": "**Limited** Zero HYEIN Profile Picture",
+      "ZEHC_MJ_TEXT": "**Limited** Here's your cola MINJI Profile Picture",
+      "ZEHC_HN_TEXT": "**Limited** Here's your cola HANNI Profile Picture",
+      "ZEHC_DN_TEXT": "**Limited** Here's your cola DANIELLE Profile Picture",
+      "ZEHC_HR_TEXT": "**Limited** Here's your cola HAERIN Profile Picture",
+      "ZEHC_HY_TEXT": "**Limited** Here's your cola HYEIN Profile Picture"
      
     }
       ]
