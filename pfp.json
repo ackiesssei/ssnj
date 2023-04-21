@@ -46,6 +46,11 @@
       "ZEHC_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/13.png?format=png",
       "ZEHC_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/14.png?format=png",
       "ZEHC_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/15.png?format=png",
+      "SDHD_FW": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/16.png?format=png",
+      "SDHD_FH": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/17.png?format=png",
+      "SDHD_FS": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/18.png?format=png",
+      "SDHD_FE": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/19.png?format=png",
+      "SDHD_HL": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/20.png?format=png",
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -91,7 +96,12 @@
       "ZEHC_HN_TEXT": "**Limited** Here's your cola HANNI Profile Picture",
       "ZEHC_DN_TEXT": "**Limited** Here's your cola DANIELLE Profile Picture",
       "ZEHC_HR_TEXT": "**Limited** Here's your cola HAERIN Profile Picture",
-      "ZEHC_HY_TEXT": "**Limited** Here's your cola HYEIN Profile Picture"
+      "ZEHC_HY_TEXT": "**Limited** Here's your cola HYEIN Profile Picture",
+      "SDDD_FW_TEXT": "**Limited** HYEIN DAY From winwln Profile Picture",
+      "SDDD_FH_TEXT": "**Limited** HYEIN From Hanaimagination Profile Picture",
+      "SDDD_FS_TEXT": "**Limited** HYEIN DAY From sssei Profile Picture",
+      "SDDD_FE_TEXT": "**Limited** HYEIN DAY From emzsi Profile Picture",
+      "SDDD_HL_TEXT": "**Limited** HYEIN DAY Limited Profile Picture"
      
     }
       ]
