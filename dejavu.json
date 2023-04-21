@@ -2188,5 +2188,95 @@
             "name": "<:c_:1081522950961909860> **HYEIN DAY From winwln** HYEIN",
             "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/5.png?canvas.width=270&canvas.height=380&canvas.opacity=0?format=png"
         }
+    ],
+        "SDHD_FH_R": [
+        {
+            "name": "<:r:1081522963628699669> **HYEIN DAY from Hanaimagination** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/6.png?canvas.width=360&canvas.height=490&canvas.opacity=0?format=png"
+        }
+    ],
+    "SDHD_FH_S": [
+        {
+            "name": "<:s:1081522960067727360> **HYEIN DAY from Hanaimagination** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/7.png?canvas.width=360&canvas.height=490&canvas.opacity=0?format=png"
+        }
+    ],
+    "SDHD_FH_A": [
+        {
+            "name": "<:a:1081522956234133527> **HYEIN DAY from Hanaimagination** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/8.png?canvas.width=360&canvas.height=490&canvas.opacity=0?format=png"
+        }
+    ],
+    "SDHD_FH_B": [
+        {
+            "name": "<:b:1081522954279591956> **HYEIN DAY from Hanaimagination** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/9.png?canvas.width=360&canvas.height=490&canvas.opacity=0?format=png"
+        }
+    ],
+    "SDHD_FH_C": [
+        {
+            "name": "<:c_:1081522950961909860> **HYEIN DAY from Hanaimagination** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/10.png?canvas.width=360&canvas.height=490&canvas.opacity=0?format=png"
+        }
+    ],
+        "SDHD_FS_R": [
+        {
+            "name": "<:r:1081522963628699669> **HYEIN DAY from sssei** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/11.png?format=png"
+        }
+    ],
+    "SDHD_FS_S": [
+        {
+            "name": "<:s:1081522960067727360> **HYEIN DAY from sssei** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/12.png?format=png"
+        }
+    ],
+    "SDHD_FS_A": [
+        {
+            "name": "<:a:1081522956234133527> **HYEIN DAY from sssei** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/13.png?format=png"
+        }
+    ],
+    "SDHD_FS_B": [
+        {
+            "name": "<:b:1081522954279591956> **HYEIN DAY from sssei** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/14.png?format=png"
+        }
+    ],
+    "SDHD_FS_C": [
+        {
+            "name": "<:c_:1081522950961909860> **HYEIN DAY from sssei** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/15.png?format=png"
+        }
+    ],
+        "SDHD_FE_R": [
+        {
+            "name": "<:r:1081522963628699669> **HYEIN DAY from emzsi** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/16.png?canvas.width=340&canvas.height=460&canvas.opacity=0"
+        }
+    ],
+    "SDHD_FE_S": [
+        {
+            "name": "<:s:1081522960067727360> **HYEIN DAY from emzsi** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/17.png?canvas.width=340&canvas.height=460&canvas.opacity=0"
+        }
+    ],
+    "SDHD_FE_A": [
+        {
+            "name": "<:a:1081522956234133527> **HYEIN DAY from emzsi** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/18.png?canvas.width=340&canvas.height=460&canvas.opacity=0"
+        }
+    ],
+    "SDHD_FE_B": [
+        {
+            "name": "<:b:1081522954279591956> **HYEIN DAY from emzsi** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/19.png?canvas.width=340&canvas.height=460&canvas.opacity=0"
+        }
+    ],
+    "SDHD_FE_C": [
+        {
+            "name": "<:c_:1081522950961909860> **HYEIN DAY from emzsi** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/HYEIN%20Day/20.png?canvas.width=340&canvas.height=460&canvas.opacity=0"
+        }
     ]
 }
