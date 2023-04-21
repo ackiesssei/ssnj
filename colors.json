@@ -12,6 +12,10 @@
             "FROMEMZSI_COLOR": "#945424",
             "FROMWINWLN_COLOR": "#aec6ec",
             "FROMSSSEI_COLOR": "#375c26",
+            "SDHDFROMWINWLN_COLOR": "#0d851d",
+            "SDHDFROMHANAIMAGINATION_COLOR": "#4f360e",
+            "SDHDFROMSSSEI_COLOR": "#afddf8",
+            "SDHDFROMEMZSI_COLOR": "#acb9d7",
             
             
             "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
@@ -24,7 +28,11 @@
             "FROMBULLLOAFER_COLOR_TEXT": "**Limited** DANIELLE DAY From bullloafer Color",
             "FROMEMZSI_COLOR_TEXT": "**Limited** DANIELLE DAY From emzsi Color",
             "FROMWINWLN_COLOR_TEXT": "**Limited** DANIELLE DAY From winwln Color",
-            "FROMSSSEI_COLOR_TEXT": "**Limited** DANIELLE DAY From sssei Color"
+            "FROMSSSEI_COLOR_TEXT": "**Limited** DANIELLE DAY From sssei Color",
+            "SDHDFROMHANAIMAGINATION_COLOR_TEXT": "**Limited** HYEIN DAY From Hanaimagination Color",
+            "SDHDFROMEMZSI_COLOR_TEXT": "**Limited** HYEIN DAY From emzsi Color",
+            "SDHDFROMWINWLN_COLOR_TEXT": "**Limited** HYEIN DAY From winwln Color",
+            "SDHDFROMSSSEI_COLOR_TEXT": "**Limited** HYEIN DAY From sssei Color"
         }
     ]
 }
