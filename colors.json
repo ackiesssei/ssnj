@@ -16,6 +16,8 @@
             "SDHDFROMHANAIMAGINATION_COLOR": "#4f360e",
             "SDHDFROMSSSEI_COLOR": "#afddf8",
             "SDHDFROMEMZSI_COLOR": "#acb9d7",
+            "HERESYOURCOLA_COLOR": "#7a2e1b",
+            "ZERO_COLOR": "#cc2f32",
             
             
             "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
@@ -32,7 +34,9 @@
             "SDHDFROMHANAIMAGINATION_COLOR_TEXT": "**Limited** HYEIN DAY From Hanaimagination Color",
             "SDHDFROMEMZSI_COLOR_TEXT": "**Limited** HYEIN DAY From emzsi Color",
             "SDHDFROMWINWLN_COLOR_TEXT": "**Limited** HYEIN DAY From winwln Color",
-            "SDHDFROMSSSEI_COLOR_TEXT": "**Limited** HYEIN DAY From sssei Color"
+            "SDHDFROMSSSEI_COLOR_TEXT": "**Limited** HYEIN DAY From sssei Color",
+"ZERO_COLOR_TEXT": "**Limited** Zero Color",
+"HERESYOURCOLA_COLOR_TEXT": "**Limited** Here's your cola Color"
         }
     ]
 }
