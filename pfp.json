@@ -51,6 +51,11 @@
       "SDHD_FS": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/18.png?format=png",
       "SDHD_FE": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/19.png?format=png",
       "SDHD_HL": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/20.png?format=png",
+      "N1HB_MJ": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/21.png?format=png",
+      "N1HB_HN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/22.png?format=png",
+      "N1HB_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/23.png?format=png",
+      "N1HB_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/24.png?format=png",
+      "N1HB_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/April/PFP/25.png?format=png",
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -101,7 +106,12 @@
       "SDHD_FH_TEXT": "**Limited** HYEIN DAY From Hanaimagination Profile Picture",
       "SDHD_FS_TEXT": "**Limited** HYEIN DAY From sssei Profile Picture",
       "SDHD_FE_TEXT": "**Limited** HYEIN DAY From emzsi Profile Picture",
-      "SDHD_HL_TEXT": "**Limited** HYEIN DAY Limited Profile Picture"
+      "SDHD_HL_TEXT": "**Limited** HYEIN DAY Limited Profile Picture",
+      "N1HB_MJ_TEXT": "**Limited** Hype Boy MINJI Profile Picture",
+      "N1HB_HN_TEXT": "**Limited** Hype Boy HANNI Profile Picture",
+      "N1HB_DN_TEXT": "**Limited** Hype Boy DANIELLE Profile Picture",
+      "N1HB_HR_TEXT": "**Limited** Hype Boy HAERIN Profile Picture",
+      "N1HB_HY_TEXT": "**Limited** Hype Boy HYEIN Profile Picture"
      
     }
       ]
