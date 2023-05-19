@@ -19,6 +19,7 @@
             "HERESYOURCOLA_COLOR": "#7a2e1b",
             "ZERO_COLOR": "#cc2f32",
             "HYPEBOY_COLOR": "#397ca6",
+            "OHMY_COLOR": "#598a14",
             
             
             "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
@@ -38,7 +39,8 @@
             "SDHDFROMSSSEI_COLOR_TEXT": "**Limited** HYEIN DAY From sssei Color",
 "ZERO_COLOR_TEXT": "**Limited** Zero Color",
 "HERESYOURCOLA_COLOR_TEXT": "**Limited** Here's your cola Color",
-            "HYPEBOY_COLOR_TEXT": "**Limited** Hype Boy Color"
+            "HYPEBOY_COLOR_TEXT": "**Limited** Hype Boy Color",
+            "OHMY_COLOR_TEXT": "**Limited** Oh my Color"
         }
     ]
 }
