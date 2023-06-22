@@ -20,6 +20,7 @@
             "ZERO_COLOR": "#cc2f32",
             "HYPEBOY_COLOR": "#397ca6",
             "OHMY_COLOR": "#598a14",
+            "HURT_COLOR": "#a5a4a1",
             
             
             "SSNJVAL_COLOR_TEXT": "**Limited** SSNJ Valentines Color",
@@ -40,7 +41,8 @@
 "ZERO_COLOR_TEXT": "**Limited** Zero Color",
 "HERESYOURCOLA_COLOR_TEXT": "**Limited** Here's your cola Color",
             "HYPEBOY_COLOR_TEXT": "**Limited** Hype Boy Color",
-            "OHMY_COLOR_TEXT": "**Limited** Oh my Color"
+            "OHMY_COLOR_TEXT": "**Limited** Oh my Color",
+            "HURT_COLOR_TEXT": "**Limited** Hurt Color"
         }
     ]
 }
