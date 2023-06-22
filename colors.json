@@ -42,7 +42,29 @@
 "HERESYOURCOLA_COLOR_TEXT": "**Limited** Here's your cola Color",
             "HYPEBOY_COLOR_TEXT": "**Limited** Hype Boy Color",
             "OHMY_COLOR_TEXT": "**Limited** Oh my Color",
-            "HURT_COLOR_TEXT": "**Limited** Hurt Color"
+            "HURT_COLOR_TEXT": "**Limited** Hurt Color",
+
+            "NEWJEANS_COLOR": "#284377",
+      "NEWJEANS_COLOR2": "#4ff045",
+      "SSNJ_COLOR": "#0c84e4",
+      "NJ_COLOR": "#7e93ba",
+      "OMG_COLOR": "#141414",
+      "HANNI_COLOR": "#Fecaf8",
+      "MINJI_COLOR": "#Fff067",
+      "DANIELLE_COLOR": "#A3ef83",
+      "HAERIN_COLOR": "#F8f8f6",
+      "HYEIN_COLOR": "#Aff3f6",
+      
+      "NEWJEANS_COLOR_TEXT": "**Free** NewJeans Color",
+      "NEWJEANS_COLOR2_TEXT": "**Free** NewJeans Color 2",
+      "SSNJ_COLOR_TEXT": "**Free** SuperStar NewJeans Color",
+      "NJ_COLOR_TEXT": "**Free** New Jeans Color",
+      "OMG_COLOR_TEXT": "**Free** OMG Color",
+      "HANNI_COLOR_TEXT": "**Free** HANNI Color",
+      "MINJI_COLOR_TEXT": "**Free** MINJI Color",
+      "DANIELLE_COLOR_TEXT": "**Free** DANIELLE Color",
+      "HAERIN_COLOR_TEXT": "**Free** HAERIN Color",
+      "HYEIN_COLOR_TEXT": "**Free** HYEIN Color"
         }
     ]
 }
