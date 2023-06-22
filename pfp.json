@@ -61,6 +61,11 @@
       "O2OM_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/May/PFP/3.png?format=png",
       "O2OM_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/May/PFP/4.png?format=png",
       "O2OM_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/May/PFP/5.png?format=png",
+      "N1HU_MJ": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/1.png?format=png",
+      "N1HU_HN": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/2.png?format=png",
+      "N1HU_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/3.png?format=png",
+      "N1HU_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/4.png?format=png",
+      "N1HU_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/5.png?format=png",
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -121,7 +126,12 @@
       "O2OM_HN_TEXT": "**Limited** Oh my HANNI Profile Picture",
       "O2OM_DN_TEXT": "**Limited** Oh my DANIELLE Profile Picture",
       "O2OM_HR_TEXT": "**Limited** Oh my HAERIN Profile Picture",
-      "O2OM_HY_TEXT": "**Limited** Oh my HYEIN Profile Picture"
+      "O2OM_HY_TEXT": "**Limited** Oh my HYEIN Profile Picture",
+      "N1HU_MJ_TEXT": "**Limited** Hurt MINJI Profile Picture",
+      "N1HU_HN_TEXT": "**Limited** Hurt HANNI Profile Picture",
+      "N1HU_DN_TEXT": "**Limited** Hurt DANIELLE Profile Picture",
+      "N1HU_HR_TEXT": "**Limited** Hurt HAERIN Profile Picture",
+      "N1HU_HY_TEXT": "**Limited** Hurt HYEIN Profile Picture"
      
     }
       ]
