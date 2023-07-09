@@ -66,6 +66,11 @@
       "N1HU_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/3.png?format=png",
       "N1HU_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/4.png?format=png",
       "N1HU_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/June/PFP/5.png?format=png",
+      "CPCP_MJ": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/PFP/1.png?format=png",
+      "CPCP_HN": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/PFP/2.png?format=png",
+      "CPCP_DN": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/PFP/3.png?format=png",
+      "CPCP_HR": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/PFP/4.png?format=png",
+      "CPCP_HY": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/PFP/5.png?format=png",
       
       "SNVL_MJ_TEXT": "**Limited** SSNJ Valentines MINJI Profile Picture",
       "SNVL_HN_TEXT": "**Limited** SSNJ Valentines HANNI Profile Picture",
@@ -132,6 +137,10 @@
       "N1HU_DN_TEXT": "**Limited** Hurt DANIELLE Profile Picture",
       "N1HU_HR_TEXT": "**Limited** Hurt HAERIN Profile Picture",
       "N1HU_HY_TEXT": "**Limited** Hurt HYEIN Profile Picture",
+      "CPCP_HN_TEXT": "**Limited** Bunnies Camp HANNI Profile Picture",
+      "CPCP_DN_TEXT": "**Limited** Bunnies Camp DANIELLE Profile Picture",
+      "CPCP_HR_TEXT": "**Limited** Bunnies Camp HAERIN Profile Picture",
+      "CPCP_HY_TEXT": "**Limited** Bunnies Camp HYEIN Profile Picture",
 
       "N1_MJ":"https://media.discordapp.net/attachments/1081499031949295636/1084109320037335061/mjdefault.png?width=137&height=137",
       "N1_HN":"https://media.discordapp.net/attachments/1081499031949295636/1084109509485670400/hndefault.png?width=137&height=137",
