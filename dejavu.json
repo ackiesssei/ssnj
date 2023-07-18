@@ -2908,5 +2908,155 @@
             "name": "🖊️ **SSNJ Signed [Vol. 2]** HYEIN",
             "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/SSNJ%20Signed%202/30.png?format=png"
         }
+    ],
+    "G1NJ_MJ_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/5.png"
+        }
+    ],
+    "G1NJ_MJ_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/4.png"
+        }
+    ],
+    "G1NJ_MJ_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/3.png"
+        }
+    ],
+    "G1NJ_MJ_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/2.png"
+        }
+    ],
+    "G1NJ_MJ_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans** MINJI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/1.png"
+        }
+    ],
+        "G1NJ_HN_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/10.png"
+        }
+    ],
+    "G1NJ_HN_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/9.png"
+        }
+    ],
+    "G1NJ_HN_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/8.png"
+        }
+    ],
+    "G1NJ_HN_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/7.png"
+        }
+    ],
+    "G1NJ_HN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans** HANNI",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/6.png"
+        }
+    ],
+        "G1NJ_DN_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/15.png"
+        }
+    ],
+    "G1NJ_DN_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/14.png"
+        }
+    ],
+    "G1NJ_DN_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/13.png"
+        }
+    ],
+    "G1NJ_DN_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/12.png"
+        }
+    ],
+    "G1NJ_DN_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans** DANIELLE",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/11.png"
+        }
+    ],
+        "G1NJ_HR_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/20.png"
+        }
+    ],
+    "G1NJ_HR_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/19.png"
+        }
+    ],
+    "G1NJ_HR_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/18.png"
+        }
+    ],
+    "G1NJ_HR_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/17.png"
+        }
+    ],
+    "G1NJ_HR_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans** HAERIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/16.png"
+        }
+    ],
+        "G1NJ_HY_R": [
+        {
+            "name": "<:r:1081522963628699669> **New Jeans** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/25.png"
+        }
+    ],
+    "G1NJ_HY_S": [
+        {
+            "name": "<:s:1081522960067727360> **New Jeans** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/24.png"
+        }
+    ],
+    "G1NJ_HY_A": [
+        {
+            "name": "<:a:1081522956234133527> **New Jeans** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/23.png"
+        }
+    ],
+    "G1NJ_HY_B": [
+        {
+            "name": "<:b:1081522954279591956> **New Jeans** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/22.png"
+        }
+    ],
+    "G1NJ_HY_C": [
+        {
+            "name": "<:c_:1081522950961909860> **New Jeans** HYEIN",
+            "image": "https://superstarnewjeans.sirv.com/SSNJ/2023/July/New%20Jeans/21.png"
+        }
     ]
 }
